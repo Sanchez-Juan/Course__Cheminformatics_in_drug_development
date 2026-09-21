@@ -14,7 +14,9 @@ El repositorio se actualizará continuamente con *scripts* en Python enfocados e
 
 **Juan David Sánchez Ramírez**
 M. en C. Químicas (en curso) — UNAM
+
 Químico — Universidad de Antioquia
+
 Perfil de GitHub: [Sanchez-Juan](https://github.com/Sanchez-Juan)
 
 ## 📄 Licencias
